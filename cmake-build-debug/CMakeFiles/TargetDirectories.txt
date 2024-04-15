@@ -1,0 +1,3 @@
+D:/dian_sai/oled/cmake-build-debug/CMakeFiles/oled.elf.dir
+D:/dian_sai/oled/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/dian_sai/oled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
